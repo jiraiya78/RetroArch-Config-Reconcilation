@@ -2,6 +2,8 @@
 
 A PowerShell utility to intelligently **sync configuration files** line-by-line, preserving your existing values while adopting newer structure or parameters from an updated config.
 
+keyword: update retroach config, migrate retroach config
+
 ### ⚙️ What It Does
 
 This tool helps you when an application (e.g. RetroArch) updates its config file format or adds new parameters, and you want to:
